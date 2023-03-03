@@ -15,8 +15,10 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+In dev
+
 ## How To Contribute
 
 ### Copyright 
-GIt.Training 2023
+GIt.Training 2023 ITC
 
