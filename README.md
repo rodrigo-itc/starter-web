@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This repository is for showing how Git and GitHub work
-show how to use Git and Github together. Adding a line
+show how to use Git and Github together. Adding a line, more changes
 
 ## Introduction
 
