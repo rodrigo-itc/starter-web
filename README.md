@@ -20,5 +20,5 @@ In dev
 ## How To Contribute
 
 ### Copyright 
-GIt.Training 2023 ITC
+GIt.Training 2023 ITCenter
 
