@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <!-- Treino 2 2  -->
 <head>
-<<<<<<< HEAD
-	<title>FLasefsafasfda sadsad</title>
-=======
-	<title>An Great site</title>
->>>>>>> realwork
+	<title>FLasefsafasfasasasasasasda sadsad</title>
+	<title>An Greasaddast site</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -19,16 +16,18 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-<<<<<<< HEAD
-			fsadfsadfsafdgdfs
-			hgfdhfdghfdg
-=======
-			sOMSometingnusfjdh sdfdsf
->>>>>>> realwork
+			dasdasdas
+			asdasdasx
+			xasxasxasx
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; Company 2014</p>
+		<p>&copy; Company w2014</p>
+			sdasdasdanusfjdh sdfdsf
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; tRAINING 2014</p>
 	</footer>
 </body>
 </html>
